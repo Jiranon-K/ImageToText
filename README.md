@@ -63,22 +63,10 @@ python main.py
 
 ---
 
-## Screenshots
-
-### Main Window
-![Main Window](![image](https://github.com/user-attachments/assets/8a597037-174b-49a8-8b2a-a090f11e48fe)
-)
-
-### Extracted Text Output
-![Text Output](![image](https://github.com/user-attachments/assets/963e9f26-d472-4531-b9d3-5fe984627229)
-)
-
----
-
 
 ## Acknowledgments
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - [Python Pillow Library](https://python-pillow.org/)
 
----
+
 
